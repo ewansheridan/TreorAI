@@ -14,8 +14,7 @@ So, we designed an AI-chatbot that could act as a kind of guidance counsellor, u
 - This video outlines the creative inspiration and iterative design process
 - Progression from low-fidelity prototypes to a highly interactive one
 
-<div align="center">
-<video src="https://github.com/user-attachments/assets/13df84e8-9187-4978-9732-7c01500bb096" width="320" controls></video></div>
+<video src="https://github.com/user-attachments/assets/13df84e8-9187-4978-9732-7c01500bb096" width="640" controls></video>
 
 
 #### Presentation Video
