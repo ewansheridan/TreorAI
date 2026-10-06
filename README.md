@@ -22,8 +22,7 @@ So, we designed an AI-chatbot that could act as a kind of guidance counsellor, u
 - This video was presented in front of the entire class
 - It has some overlap with the prototype video, but also goes into detail on specific HCI principles we researched and used such as User-Centred Design
 
-<div align="center">
-<video src="https://github.com/user-attachments/assets/e51dff7c-2812-44d1-909f-6b7bdef2d5f9" width="320" controls></video></div>
+<video src="https://github.com/user-attachments/assets/e51dff7c-2812-44d1-909f-6b7bdef2d5f9" width="320" controls></video>
 
 #### Final Paper
 
